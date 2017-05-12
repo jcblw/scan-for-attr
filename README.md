@@ -1,5 +1,7 @@
 # Scan For Attr
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/scan-for-attr.svg)](https://greenkeeper.io/)
+
 This finds the top level attributes of a given segments of a dom tree.
 
 ## Usage
